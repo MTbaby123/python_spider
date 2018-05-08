@@ -1,0 +1,71 @@
+#coding:utf-8
+from selenium import webdriver
+import time
+from selenium.webdriver.support import expected_conditions as EC
+
+def denglu():
+
+
+    driver=webdriver.Firefox()
+    driver.get("http://192.168.7.177/login.action?cmd=10008") #登录界面
+
+    time.sleep(2)
+
+    driver.find_element_by_id("username").send_keys('admin')  #输入用户名
+
+    time.sleep(2)
+
+    driver.find_element_by_id("password").send_keys('admin')  #输入密码
+
+    time.sleep(2)
+
+    driver.find_element_by_id("LoginButton").click()  #点击确定
+    
+    result = EC.alert_is_present()(driver)
+    if result:
+        print result.text
+        result.accept()
+    else:
+        print "alert 未弹出！"
+#     driver.switch_to_alert().accept()  #    确定强制登录
+    time.sleep(2)
+    return driver
+
+
+
+
+driver=denglu()
+
+driver.find_element_by_link_text('用户管理').click()   #进入用户管理
+
+time.sleep(2)
+
+driver.find_element_by_xpath('/html/body/div[1]/div[4]/div[1]/dl/dd[2]/a').click()
+
+time.sleep(2)
+
+driver.find_element_by_css_selector('#addUserG').click()
+
+time.sleep(3)
+
+driver.find_element_by_name("groupName").send_keys('123')
+
+
+time.sleep(2)
+
+driver.find_element_by_xpath('//*[@id="saveButton"]').click()
+
+time.sleep(1)
+
+driver.find_element_by_xpath('/html/body/div[7]/div[3]/div/button/span').click()
+
+
+
+
+
+
+
+
+
+    
+    

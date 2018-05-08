@@ -1,0 +1,51 @@
+#coding:utf-8 
+from selenium import webdriver
+from chang import denglu
+import  time
+
+
+#driver=webdriver.Chrome()
+ 
+driver = denglu()
+# print "123" 
+driver.find_element_by_link_text("用户管理").click()
+driver.implicitly_wait(10)   #点击用户管理
+time.sleep(1)
+M = range(5)
+x = 0
+for x in M:
+    time.sleep(1)
+    y = 0
+    t = int(time.time())
+    N = range(t,t+10)
+    for y in N:
+        driver.find_element_by_id('addUser').click()    #添加用户
+        driver.find_element_by_id('userName').send_keys(y)   #输入用户名
+        time.sleep(1)
+        driver.find_element_by_id('pwd').send_keys('test@123')   #输入密码
+        time.sleep(1)
+        driver.find_element_by_id('pwdConfirm').send_keys('test@123')    #重输密码
+        time.sleep(1)
+        driver.find_element_by_name('groups_temp').click()
+        time.sleep(1)
+        driver.find_element_by_id('saveButton').click()
+        time.sleep(1)
+        driver.switch_to_alert().accept()
+#         spans = driver.find_elements_by_class_name("ui-button-text")
+#         print len(spans)
+#         
+#         try:
+#             for s in spans:
+#                 print s.text
+#         except:
+#             pass
+#         b = range(3,10)
+#         for a in b:
+#             spans[a].click()
+#             a += 1
+#             break
+        
+        
+        y = y + 1
+    x+=1
+    

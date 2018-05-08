@@ -1,0 +1,95 @@
+1498790278452	geckodriver	INFO	Listening on 127.0.0.1:63228
+1498790279058	mozprofile::profile	INFO	Using profile path C:\Users\nicker\AppData\Local\Temp\rust_mozprofile.bOcu4YWadamY
+1498790279065	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1498790279088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63232
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format61
+1498790282836	Marionette	INFO	Listening on port 63232
+1498790286386	Marionette	INFO	startBrowser a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790286404	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790287125	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790290955	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790290962	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790293704	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790293717	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790295780	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790295793	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+JavaScript warning: http://172.16.10.65/www/templet/pc/skin8/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://172.16.10.65/www/templet/pc/skin8/js/all.js, line 105: unreachable code after return statement
+JavaScript warning: http://172.16.10.65/www/templet/pc/skin8/js/all.js, line 114: unreachable code after return statement
+1498790297933	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790297940	Marionette	INFO	sendAsync a49f8be8-d731-4ef9-b5db-6f6a65c6d028
+1498790407341	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xDA000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+y110209586554136148856_1497840650517&_=1497840650521, line 1: TypeError: jQuery110209586554136148856_1497840650517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1435_21119_18559_17001_20929&req=2&csor=7&pwd=seleni&cb=jQuery110209586554136148856_1497840650517&_=1497840650525, line 1: TypeError: jQuery110209586554136148856_1497840650517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1435_21119_18559_17001_20929&req=2&csor=5&pwd=sele&cb=jQuery110209586554136148856_1497840650517&_=1497840650523, line 1: TypeError: jQuery110209586554136148856_1497840650517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1435_21119_18559_17001_20929&req=2&csor=6&pwd=selen&cb=jQuery110209586554136148856_1497840650517&_=1497840650524, line 1: TypeError: jQuery110209586554136148856_1497840650517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1435_21119_18559_17001_20929&req=2&csor=8&pwd=seleniu&cb=jQuery110209586554136148856_1497840650517&_=1497840650526, line 1: TypeError: jQuery110209586554136148856_1497840650517 is not a function
+1497840654781	Marionette	INFO	sendAsync 7117f573-1706-4b42-a242-2e3ff72a2b6b
+1497840657814	Marionette	INFO	sendAsync 7117f573-1706-4b42-a242-2e3ff72a2b6b
+[NPAPI 5532] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 459: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 476: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 483: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 519: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 536: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 543: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 579: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 596: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 603: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 639: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 656: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 663: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 699: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 716: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 723: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 759: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 776: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 783: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 819: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 836: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 843: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 879: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 896: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 903: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 939: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 956: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 963: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 999: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1016: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1023: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1059: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1076: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1083: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1119: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1136: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1143: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1179: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1196: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1203: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1239: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1256: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1263: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1299: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1316: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1323: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1359: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1376: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1383: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1419: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1436: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1443: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1479: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1496: redeclaration of block-scoped function `_msg_item_click_count' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1503: redeclaration of block-scoped function `_message_callback' is deprecated
+JavaScript warning: http://message.csdn.net/msg.popup.js, line 1539: redeclaration of block-scoped function `_message_get_search_args' is deprecated
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 389: unreachable code after return statement
+JavaScript error: http://static.blog.csdn.net/scripts/csdn_blog_detail.min.js, line 2: TypeError: m is undefined
+JavaScript warning: http://static.blog.csdn.net/public/res/bower-libs/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://static.blog.csdn.net/public/res-min/main.js?v=1026, line 23: TypeError: d is undefined
+1496814788467	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: chrome://browser/content/content.js, line 1404: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]

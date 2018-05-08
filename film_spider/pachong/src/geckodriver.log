@@ -1,0 +1,28 @@
+1498206503028	geckodriver	INFO	Listening on 127.0.0.1:64346
+1498206504650	mozprofile::profile	INFO	Using profile path C:\Users\nicker\AppData\Local\Temp\rust_mozprofile.LOjs0OkCA2B2
+1498206504687	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1498206504694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64351
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format61
+1498206512821	Marionette	INFO	Listening on port 64351
+1498206519351	Marionette	INFO	startBrowser 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206519364	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206527094	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206530562	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206530576	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206533041	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206533050	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206535152	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206535163	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206535404	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206537582	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206537611	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206539692	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206539715	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206541741	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206541753	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206545129	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206545153	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206547204	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206547219	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
+1498206548338	Marionette	INFO	sendAsync 6418ced6-84e8-45e1-9ee7-ca2ad3a50880
